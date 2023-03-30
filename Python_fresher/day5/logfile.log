@@ -1,0 +1,40 @@
+2022-03-28 11:11:45,935 : ERROR : __main__ : Cannot divide by 0 - b = 0
+Traceback (most recent call last):
+  File "D:\GitHub\Restart\week05\day5\debug.py", line 63, in show
+    print(div(a,b))
+  File "D:\GitHub\Restart\week05\day5\debug.py", line 24, in div
+    return a/b
+ZeroDivisionError: division by zero
+2022-03-28 11:12:40,719 : ERROR : __main__ : ValueError: fdfgd should be an integer
+2022-03-28 11:12:40,720 : ERROR : __main__ : Unsupported operand type(s) for + 
+Traceback (most recent call last):
+  File "D:\GitHub\Restart\week05\day5\debug.py", line 58, in show
+    print(add(a,b))
+  File "D:\GitHub\Restart\week05\day5\debug.py", line 21, in add
+    return a+b
+TypeError: can only concatenate str (not "int") to str
+2022-03-28 11:12:41,028 : ERROR : __main__ : Unsupported operand type(s) for / 
+Traceback (most recent call last):
+  File "D:\GitHub\Restart\week05\day5\debug.py", line 63, in show
+    print(div(a,b))
+  File "D:\GitHub\Restart\week05\day5\debug.py", line 24, in div
+    return a/b
+TypeError: unsupported operand type(s) for /: 'str' and 'int'
+2023-03-23 18:14:59,080 : ERROR : __main__ : ValueError: h should be an integer
+2023-03-23 18:14:59,080 : ERROR : __main__ : ValueError: k should be an integer
+2023-03-23 18:14:59,081 : ERROR : __main__ : Unsupported operand type(s) for / 
+Traceback (most recent call last):
+  File "c:\Users\sujes\OneDrive\Desktop\tdl 2023\Restart\week05 - Python\day5\debug.py", line 63, in show
+    print(div(a,b))
+  File "c:\Users\sujes\OneDrive\Desktop\tdl 2023\Restart\week05 - Python\day5\debug.py", line 24, in div
+    return a/b
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+2023-03-23 21:15:59,006 : ERROR : __main__ : ValueError: & C:/Users/sujes/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/sujes/OneDrive/Desktop/tdl 2023/Restart/week05 - Python/day5/primes.py" should be an integer
+2023-03-23 21:15:59,007 : ERROR : __main__ : ValueError: & C:/Users/sujes/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/sujes/OneDrive/Desktop/tdl 2023/Restart/week05 - Python/day5/primes.py" should be an integer
+2023-03-23 21:15:59,008 : ERROR : __main__ : Unsupported operand type(s) for / 
+Traceback (most recent call last):
+  File "c:\Users\sujes\OneDrive\Desktop\tdl 2023\Restart\week05 - Python\day5\debug.py", line 63, in show
+    print(div(a,b))
+  File "c:\Users\sujes\OneDrive\Desktop\tdl 2023\Restart\week05 - Python\day5\debug.py", line 24, in div
+    return a/b
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
